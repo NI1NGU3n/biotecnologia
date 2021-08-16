@@ -1,0 +1,28 @@
+.rodape {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color:  rgb(139, 121, 121);
+    color: #fff;
+    text-align: center;
+    font-size: 1.5rem;
+    height: 15vh;
+    margin-top: 11vh;
+}
+
+.rodape a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+}
+
+body {
+    background-image : url(https://www.teahub.io/photos/full/14-146559_digital.jpg);
+    background-size: cover;
+}
+.container {
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+

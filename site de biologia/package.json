@@ -1,0 +1,14 @@
+{
+  "name": "biotecweb",
+  "version": "1.0.0",
+  "description": "trabalho de biologia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "biologia"
+  ],
+  "author": "vitor rodrigues izidoro",
+  "license": "ISC"
+}

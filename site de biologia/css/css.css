@@ -1,0 +1,42 @@
+body {
+    background-image : url(https://wallpaperboat.com/wp-content/uploads/2021/04/08/73962/dna-14.jpg);
+    background-size: cover;
+}
+.container {
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+
+
+.textoInformacoes {
+    padding-top: 25vh;
+}
+
+li a {
+    color: rgb(0, 0, 0);
+    transition: 0.3s ease;
+}
+
+
+.rodape {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color:  rgb(139, 121, 121);
+    color: #fff;
+    text-align: center;
+    font-size: 1.5rem;
+    height: 15vh;
+    margin-top: 156px;
+}
+
+.rodape a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+}
+
+* {
+    overflow-y: hidden;
+}
